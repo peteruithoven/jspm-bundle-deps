@@ -1,3 +1,6 @@
 jspm_packages/*
-build.js
-build.map.js
+node_modules/*
+bundle.js
+bundle.js.map
+deps-bundle.js
+deps-bundle.js.map
